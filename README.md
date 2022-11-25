@@ -33,7 +33,7 @@ Checkout the repository and bootstrap the yarn workspace:
 
 ```sh
 # Clone the repo.
-git clone https://github.com/CosmosContracts/typescript
+git clone [https://github.com/ThemisFinance/Libs]
 yarn
 yarn bootstrap
 ```
